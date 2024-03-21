@@ -1,0 +1,11 @@
+body {
+    color: darkorange;
+    background-color: black;
+
+}
+
+/* Make the image fully responsive */
+.carousel-inner img {
+             width: 65%;
+    height: 48%;
+}
